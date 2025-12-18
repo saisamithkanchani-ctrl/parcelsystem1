@@ -1,0 +1,5 @@
+{
+  "name": "Smart Parcel Tracking and Predictive Delivery System",
+  "description": "An AI-powered logistics platform that provides real-time parcel tracking and advanced delivery time predictions using Gemini AI to assess delay risks based on route and conditions.",
+  "requestFramePermissions": []
+}
